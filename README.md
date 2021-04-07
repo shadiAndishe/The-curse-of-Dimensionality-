@@ -10,3 +10,9 @@ The difficulty of searching through the space gets a *lot* harder as you have mo
 
 # AS much as the dimensionality increase, the need of data to generalize accurately the problem exponentially increase!
 ## see my provieded code to understand better the problem in Python Notebook.
+![download](https://user-images.githubusercontent.com/45369296/113876593-2bd3a780-97b8-11eb-80b3-99f7841bfc0c.png)
+
+## lets Analyse the plots!
+One the X axis the value of the distance calculated and one the Y axis we have how many data points that have this value of the distance!
+## so what?
+ok , in ths plots we can see in all distributions we have a Max which most of the distances between 2 points are distributed around that , as far as we go in higher Dimension , this range is going to thiner and thiner , means how the notion of distance is going to be usekess to seprate data from eaxh other based on distance(similarity or disSimilarity)
