@@ -17,4 +17,5 @@ One the X axis the value of the distance calculated and one the Y axis we have h
 ## so what?
 ok , in ths plots we can see in all distributions we have a Max which most of the distances between 2 points are distributed around that , as far as we go in higher Dimension , this range is going to thiner and thiner , means how the notion of distance is going to be usekess to seprate data from eaxh other based on distance(similarity or disSimilarity)
 
+
 When we have too many features, observations become harder to cluster — believe it or not, too many dimensions causes every observation in your dataset to appear equidistant from all the others. And because clustering uses a distance measure such as Euclidean distance to quantify the similarity between observations, this is a big problem. If the distances are all approximately equal, then all the observations appear equally alike (as well as equally different), and no meaningful clusters can be formed.
